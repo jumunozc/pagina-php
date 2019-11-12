@@ -1,0 +1,26 @@
+table{
+	font-family: lucida grande ,tahoma,verdana,arial,sans-serif;
+    background-color: #7d0101;
+	border-collapse:collapse;
+	width:42%;
+}
+th, td{
+	text-align.right;
+	padding:8px
+}
+tr:nth-child(even){
+	background-color:#0f96e4;
+}
+
+body
+{
+    font-family: lucida grande ,tahoma,verdana,arial,sans-serif;
+    
+}
+
+body p
+{
+    font-size: 0.8em;
+    line-height: 1.28;
+    
+}
